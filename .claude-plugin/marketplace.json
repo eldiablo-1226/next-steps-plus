@@ -1,0 +1,6 @@
+{
+  "name": "next-steps-plus",
+  "description": "next-steps-plus: next-prompt suggestions for Claude Code, terminal and desktop",
+  "owner": { "name": "eldiablo-1226" },
+  "plugins": [{ "name": "next-steps-plus", "source": "./" }]
+}
